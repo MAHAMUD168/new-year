@@ -43,3 +43,57 @@ button */
 
 /* 
 header done */
+
+/* main-part */
+.main-iteam {
+    padding-top: 131px;
+}
+
+.main-part {
+    display: flex;
+    align-items: center;
+    margin-left: 206px;
+    gap: 87px;
+    margin-right: 322px;
+    margin-bottom: ;
+}
+
+.main-title {
+
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.main-description {
+    color: #444343;
+    margin: 22px 0 16px 0;
+}
+
+.list-oder {
+    margin-bottom: 16px;
+    color: #444343;
+}
+
+.main-1st-part {
+    margin-bottom: 130px;
+}
+
+/* 2nd-main-part */
+.my-plan {
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    margin: 0 230px;
+    justify-content: center;
+    gap: 86px;
+    margin-top: 55px;
+    margin-bottom: 130px;
+
+}
+
+.logo-description {
+    /* align-items: center; */
+    text-align: center;
+}
